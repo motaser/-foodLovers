@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+   color: red;
+   font-size: 50px;
+   border: 200px;
+   background-color:  rgba(255, 229, 72, 255);
+ 
+}
+header{
+
+    border: 200px;
+    
+}
+main{
+background-color: red;
+    background-image: url('background.jpg');
+ 
+    padding: 100px;
+}
+
+ #img{
+    size: 15px;
+}
